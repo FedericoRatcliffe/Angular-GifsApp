@@ -1,6 +1,24 @@
 # Seccion7
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+Modularización de la aplicación
+
+Estructura de la aplicación de media a gran escala
+
+Componentes
+
+ViewChild
+
+Servicios
+
+Historial de búsquedas
+
+Uso de Api Keys
+
+LocalStorage
+
+Peticiones HTTP
+
+Animaciones mediante css
 
 ## Development server
 
